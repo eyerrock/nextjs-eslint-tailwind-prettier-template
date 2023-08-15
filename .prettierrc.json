@@ -1,0 +1,21 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "es5",
+  "endOfLine": "crlf",
+  "importOrder": [
+    "<BUILT_IN_MODULES>",
+    "",
+    "react",
+    "",
+    "<THIRD_PARTY_MODULES>",
+    "",
+    "^[.]"
+  ],
+  "plugins": [
+    "@ianvs/prettier-plugin-sort-imports",
+    "prettier-plugin-tailwindcss"
+  ]
+}
